@@ -4,11 +4,11 @@ This repository contains a Python program for a Restaurant Billing System. The p
 
 ## Features
 
-## Billing Transactions: 
+### Billing Transactions: 
 The system allows restaurant staff to create bills for customers based on their orders.
-## Customer Details:
+### Customer Details:
 Customers' information such as name, contact details, and billing address can be stored and retrieved for future transactions.
-## View Old Bills:
+### View Old Bills:
 Staff can access and view past bills for reference or reprinting purposes.
-## Graphical User Interface:
+### Graphical User Interface:
 The program features a user-friendly GUI for intuitive navigation and interaction.
